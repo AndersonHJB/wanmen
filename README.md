@@ -1,10 +1,12 @@
-# 万门大学课程视频批量下载
+# AI悦创·大学课程视频批量下载
 
 只能批量下载免费的或者已经购买的课程，需要配合本地客户端使用。
 
+欢迎关注我的 CSDN 冲关注粉丝：[https://blog.csdn.net/qq_33254766](https://blog.csdn.net/qq_33254766)
+
 公众号：AI悦创
 
-![IMG_2904](README.assets/IMG_2904.JPG)
+<img src="README.assets/IMG_2904.JPG" alt="IMG_2904" style="zoom:25%;" />
 
 ## 使用步骤
 
@@ -30,7 +32,7 @@
 再次运行上述可执行文件，输入 `2` 进入分发任务模式，浏览器打开任意多的万门课程播放标签页后自动开始刷新下载（如果进入后没有自动开始播放请手动点击一下列表中的任一课程让播放器开始播放，后面会自动刷新）。在 wm 控制台会显示相关信息请关注，下载完毕之后，下载的 m3u8 文件会按照输入的课程名称文件夹分类存放在 download 内。
 
 #### 下载视频
-使用 [m3u8批量下载](https://nilaoda.github.io/N_m3u8DL-CLI/SimpleGUI.html) 工具，将 download 文件夹内的课程名文件夹拖放到下载工具的M3U8地址文本框，BASEURL填入
+使用 [m3u8批量下载](https://nilaoda.github.io/N_m3u8DL-CLI/SimpleGUI.html) 工具，将 download 文件夹内的课程名文件夹拖放到下载工具的 M3U8 地址文本框，BASEURL填入
 
 ```
 https://media.wanmen.org/
